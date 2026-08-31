@@ -8,7 +8,7 @@
 ## Quick Demo
 
 > **[See the demo video / GIF here — record after setup]**  
-> *(Replace this placeholder with a 2–4 minute demo showing: policy citation, order lookup, multi-turn, abstention, and evaluation run.)*
+> **Watch the Aster Row Agent Demo:** https://drive.google.com/file/d/12asH6sTF1MZT8QX3KvkMm7ajVPJCMFfL/view?usp=sharing
 
 ---
 
